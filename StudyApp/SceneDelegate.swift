@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  StudyApp
-//
-//  Created by HYEONJUN PARK on 2023/05/12.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
