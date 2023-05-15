@@ -73,6 +73,7 @@
 		2E4456622A11FC3100BAB446 /* LoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewController.swift; sourceTree = "<group>"; };
 		2E4456642A122B6100BAB446 /* MovieDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewController.swift; sourceTree = "<group>"; };
 		2E4456662A123F2E00BAB446 /* MovieDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailViewModel.swift; sourceTree = "<group>"; };
+		2E4456682A12D63700BAB446 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2E6A16A92A0F7A8600B79C60 /* Course.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		2E6A16AB2A0F7AEA00B79C60 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
 		2E6A16EB2A0F996F00B79C60 /* HandbookCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandbookCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -165,6 +166,7 @@
 		2EF5A1872A0E83B1004E368C = {
 			isa = PBXGroup;
 			children = (
+				2E4456682A12D63700BAB446 /* README.md */,
 				2EF5A1922A0E83B1004E368C /* StudyApp */,
 				2EF5A1A92A0E83B2004E368C /* StudyAppTests */,
 				2EF5A1B32A0E83B2004E368C /* StudyAppUITests */,
